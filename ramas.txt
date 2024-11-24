@@ -7,3 +7,4 @@ cambio feature 5
 cambio feature 6
 cambio develop 4
 cambio release 1
+cambio release 2
